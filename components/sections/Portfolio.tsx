@@ -2,11 +2,11 @@ import Image from "next/image";
 
 const gallery = [
   "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?q=80&w=1200&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1496439786094-e6970dde8ac2?q=80&w=1200&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1498596719181-2fb186bf9a56?q=80&w=1200&auto=format&fit=crop",
+  "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?q=80&w=1200&auto=format&fit=crop",
+  "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1200&auto=format&fit=crop",
   "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=1200&auto=format&fit=crop",
   "https://images.unsplash.com/photo-1519225421980-715cb0215aed?q=80&w=1200&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1521337583989-51236ae6d1cb?q=80&w=1200&auto=format&fit=crop",
+  "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop",
 ];
 
 export function Portfolio() {
