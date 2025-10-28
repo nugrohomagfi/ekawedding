@@ -10,7 +10,7 @@ const points = [
 export function WhyUs() {
   return (
     <section className="container mx-auto px-6 py-16">
-      <h2 className="text-2xl md:text-3xl font-bold text-purple-900">Kenapa Pilih EkaWedding?</h2>
+      <h2 className="text-2xl md:text-3xl font-bold text-purple-900">Kenapa Pilih BlessingsWO?</h2>
       <div className="mt-6 grid md:grid-cols-2 gap-6">
         {points.map((p) => (
           <div key={p.title} className="flex gap-4 items-start p-4 rounded-xl ring-1 ring-purple-100 bg-white">

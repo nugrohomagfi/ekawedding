@@ -18,7 +18,7 @@ export function Portfolio() {
         <div className="mt-6 grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {gallery.map((src, i) => (
             <div key={i} className="relative aspect-[4/3] overflow-hidden rounded-xl ring-1 ring-purple-100">
-              <Image src={src} alt={`EkaWedding Gallery ${i+1}`} fill className="object-cover hover:scale-105 transition" />
+              <Image src={src} alt={`BlessingsWO Gallery ${i+1}`} fill className="object-cover hover:scale-105 transition" />
             </div>
           ))}
         </div>

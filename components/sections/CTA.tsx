@@ -19,7 +19,7 @@ export function CTA() {
   const onSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     const tanggal = date ? format(date, "dd MMMM yyyy") : "(belum memilih)";
-    const text = `Halo EkaWedding!\nNama: ${name}\nNo HP: ${phone}\nTanggal: ${tanggal}\nCatatan: ${note}`;
+    const text = `Halo BlessingsWO!\nNama: ${name}\nNo HP: ${phone}\nTanggal: ${tanggal}\nCatatan: ${note}`;
     const url = `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(text)}`;
     window.open(url, "_blank");
   };

@@ -12,7 +12,7 @@ export function Navbar() {
         <Link href="/" className="flex items-center gap-2 font-bold text-purple-700">
           <Heart className="h-5 w-5 fill-purple-600 text-purple-600" aria-hidden="true" />
           <span className="sr-only">Beranda</span>
-          <span aria-label="EkaWedding brand">EkaWedding</span>
+          <span aria-label="BlessingsWO brand">BlessingsWO</span>
         </Link>
         <nav className="hidden md:flex items-center gap-6 text-sm text-muted-foreground">
           <a href="#services" className="hover:text-purple-700">Layanan</a>
