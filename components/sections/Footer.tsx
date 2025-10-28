@@ -9,7 +9,7 @@ export function Footer() {
           Komplek Kunciran Mas Permai, Jl. Jeruk No. 4, Kec. Pinang, Kota Tangerang 15144
         </p>
         <p className="mt-6 text-xs text-gray-500">
-          © {new Date().getFullYear()} EkaWedding • Wedding Organizer Jabodetabek. All rights reserved.
+          © {new Date().getFullYear()} BlessingsWO • Wedding Organizer Jabodetabek. All rights reserved.
         </p>
       </div>
     </footer>

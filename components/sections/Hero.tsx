@@ -12,13 +12,13 @@ export function Hero() {
       <div className="container mx-auto px-6 py-20 grid lg:grid-cols-2 gap-10 items-center">
         <div>
           <span className="inline-flex items-center gap-2 rounded-full bg-purple-100 text-purple-700 px-3 py-1 text-sm font-medium">
-            EkaWedding • Wedding Organizer Jabodetabek
+            BlessingsWO • Wedding Organizer Jabodetabek
           </span>
           <h1 className="mt-4 text-4xl md:text-5xl font-bold tracking-tight text-purple-900">
             Wujudkan Hari Pernikahan Impian Anda, Tanpa Ribet
           </h1>
           <p className="mt-4 text-base md:text-lg text-muted-foreground max-w-prose">
-            Tim profesional EkaWedding siap mendampingi setiap langkah: dari
+            Tim profesional BlessingsWO siap mendampingi setiap langkah: dari
             perencanaan hingga hari-H. Fokus menikmati momen, biar kami yang
             urus semua detailnya.
           </p>
@@ -42,7 +42,7 @@ export function Hero() {
         <div className="relative aspect-[4/3] rounded-2xl overflow-hidden ring-1 ring-purple-200 bg-purple-50">
           <Image
             src="https://images.unsplash.com/photo-1522673607200-164d1b6ce486?q=80&w=1200&auto=format&fit=crop"
-            alt="EkaWedding - Wedding Organizer"
+            alt="BlessingsWO - Wedding Organizer"
             fill
             className="object-cover"
             priority

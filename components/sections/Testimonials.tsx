@@ -1,7 +1,7 @@
 import { Card, CardContent } from "@/components/ui/card";
 
 const testimonials = [
-  { name: "Rani & Arif", text: "Tim EkaWedding bener-bener ngebantu dari awal sampai akhir. Kami bisa nikmatin hari itu tanpa pusing!" },
+  { name: "Rani & Arif", text: "Tim BlessingsWO bener-bener ngebantu dari awal sampai akhir. Kami bisa nikmatin hari itu tanpa pusing!" },
   { name: "Sinta & Dimas", text: "Rapi, komunikatif, dan sangat sabar. Vendor yang direkomendasikan juga top semua." },
   { name: "Lia & Rizky", text: "Terima kasih sudah wujudin intimate wedding kami jadi super hangat dan berkesan." },
 ];

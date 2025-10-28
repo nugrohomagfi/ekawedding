@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "EkaWedding • Wedding Organizer Jabodetabek",
+  title: "BlessingsWO • Wedding Organizer Jabodetabek",
   description: "Wedding Organizer profesional area Jabodetabek. Paket WO, Day-of Coordinator, Intimate Wedding.",
 };
 
